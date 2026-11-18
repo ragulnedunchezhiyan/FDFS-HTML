@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+	<body>
+		<table border="1">
+			<tbody>
+				<tr>
+					<td>1</td>
+					<td>John</td>
+					<td>18 yrs</td>
+				</tr>
+				<tr>
+					<td>2</td>
+					<td>Lisa</td>
+					<td>20 yrs</td>
+				</tr>
+				<tr>
+					<td>3</td>
+					<td>Susan</td>
+					<td>30 yrs</td>
+				</tr>
+				
+			</tbody>
+			
+		</table>
+	</body>
+</html>
