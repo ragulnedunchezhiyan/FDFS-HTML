@@ -1,0 +1,12 @@
+<!doctype html>
+<html>	
+	<body>
+		<form method="post" action="survey.jsp">
+			<div>
+				<label for="comments">Comments:</label>
+				<textarea name="comments" id="comments" rows="5" cols="70" placeholder="Enter your comments" maxlength="300" required></textarea>
+				
+			</div>
+		</form>
+	</body>
+</html>
