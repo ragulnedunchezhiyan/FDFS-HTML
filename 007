@@ -1,0 +1,31 @@
+<!doctype html>
+<html>
+	<body>
+		<table border="1">
+			<thead>
+				<tr>
+			<th>Name</th>
+			<th>Role</th>
+			<th>Monthly Salary</th>
+			</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td>Rahul</td>
+					<td>CEO</td>
+					<td>100000</td>
+				</tr>
+				<tr>
+			    	<td>Ram</td>
+					<td>Backend Developer</td>
+					<td>60000</td>
+		    	</tr>
+		    	<tr>
+			    	<td>Rakesh</td>
+					<td>Frontend Developer</td>
+					<td>40000</td>
+		    	</tr>
+			</tbody>
+		</table>
+	</body>
+</html>
