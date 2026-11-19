@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Team Project Task List</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+   
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Team Project Task List</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <table>
+        <caption>Team Project Task List</caption>
+
+        <thead>
+            <tr>
+                <th>Task</th>
+                <th>Assigned To</th>
+                <th>Status</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            <tr>
+                <td>Design Homepage</td>
+                <td>John</td>
+                <td>Completed</td>
+            </tr>
+
+            <tr>
+                <td>Develop Login Page</td>
+                <td>Sarah</td>
+                <td>In Progress</td>
+            </tr>
+
+            <tr>
+                <td>Test Website</td>
+                <td>Michael</td>
+                <td>Pending</td>
+            </tr>
+        </tbody>
+    </table>
+
+</body>
+</html>
+</body>
+</html>
