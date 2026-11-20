@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Web Browsers</title>
+</head>
+<body>
+    <h1>What Are Web Browsers?</h1>
+    
+    
+    <p>A web browser is a software application that allows users to access and interact with content on the World Wide Web. It interprets and displays HTML documents, enabling users to view web pages, follow links, and interact with various types of web content. Web browsers facilitate the navigation of the internet by translating URLs into visible web pages. They also support various features like bookmarks, history, and extensions to enhance the browsing experience.</p>
+    
+
+    <h2>Popular Web Browsers</h2>
+    <ul>
+    <li>Google Chrome</li>
+    <li>Mozilla Firefox</li>
+    <li>Safari</li>
+	</ul>
+</body>
+</html>
